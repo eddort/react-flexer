@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Box default 1`] = `
+<div
+  className="sc-bdVaJa dIVlVV"
+>
+  Hello
+</div>
+`;
+
+exports[`Storyshots Flex default 1`] = `
+<div
+  className="sc-bwzfXH dvtSix"
+>
+  <div
+    className="sc-bdVaJa bDWFJH"
+  >
+    Hello
+  </div>
+  <div
+    className="sc-bdVaJa bDWFJH"
+  >
+    from
+  </div>
+  <div
+    className="sc-bdVaJa bDWFJH"
+  >
+    react-flexer
+  </div>
+</div>
+`;
