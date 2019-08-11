@@ -71,12 +71,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quarkly/elements"
+    "url": "https://github.com/Eddort/react-flexer"
   },
   "bugs": {
-    "url": "https://github.com/quarkly/elements/issues"
+    "url": "https://github.com/Eddort/react-flexer/issues"
   },
-  "homepage": "https://github.com/quarkly/elements#readme",
+  "homepage": "https://github.com/Eddort/react-flexer#readme",
   "pre-push": [
     "test"
   ],
