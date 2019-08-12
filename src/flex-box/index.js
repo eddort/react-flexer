@@ -36,6 +36,7 @@ export const Box = elementary.div({
     'alignSelf',
     'zIndex',
   ],
+  aliases: true,
 });
 
 export const Flex = elementary(Box)(

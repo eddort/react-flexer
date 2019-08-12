@@ -2,16 +2,15 @@
 
 exports[`Storyshots Flex default 1`] = `
 <div
-  className="sc-bdVaJa sc-bwzfXH ePthhy"
-  width={500}
+  className="sc-bdVaJa sc-bwzfXH gtNGwq"
 >
   <div
-    className="sc-bdVaJa bDWFJH"
+    className="sc-bdVaJa ezukAl"
   >
     Hello
   </div>
   <div
-    className="sc-bdVaJa bDWFJH"
+    className="sc-bdVaJa eIyRjL"
   >
     from
   </div>
