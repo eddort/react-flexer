@@ -1,16 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Storyshots Box default 1`] = `
-<div
-  className="sc-bdVaJa dIVlVV"
->
-  Hello
-</div>
-`;
-
 exports[`Storyshots Flex default 1`] = `
 <div
-  className="sc-bwzfXH dvtSix"
+  className="sc-bdVaJa sc-bwzfXH hKiLMS"
 >
   <div
     className="sc-bdVaJa bDWFJH"

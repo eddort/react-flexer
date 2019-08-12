@@ -2,8 +2,7 @@ import React from 'react';
 import { storiesOf } from '@storybook/react';
 import { withKnobs } from '@storybook/addon-knobs';
 import Theme from '../theme';
-import Flex from './index';
-import Box from '../box';
+import { Flex, Box } from './index';
 
 const stories = storiesOf('Flex', module);
 

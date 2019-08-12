@@ -1,7 +1,6 @@
 import elementary from '@quarkly/elementary';
 
-export default elementary.div({
-  name: 'Box',
+export const Box = elementary.div({
   styles: [
     'display',
     'height',
@@ -37,5 +36,11 @@ export default elementary.div({
     'alignSelf',
     'zIndex',
   ],
-  variant: 'boxes',
 });
+
+export const Flex = elementary(Box)(
+  {},
+  {
+    display: 'flex',
+  },
+);
