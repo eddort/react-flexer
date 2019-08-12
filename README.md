@@ -1,3 +1,5 @@
+<img src="flexer.gif" width="200">
+
 # react-flexer 
 
 ### flexbox grid layout like rebass, just faster. Built with [@quarkly/elementary](https://github.com/quarkly/elementary)
