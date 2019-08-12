@@ -7,13 +7,13 @@ import { Flex as FlexerFlex, Box as FlexerBox } from './flex-box';
 
 const Flexer = () => (
   <FlexerFlex>
-    <FlexerBox m={3} />
+    <FlexerBox margin={3} width={3} />
   </FlexerFlex>
 );
 
 const Rebass = () => (
   <Flex>
-    <Box m={3} />
+    <Box m={3} width={2} />
   </Flex>
 );
 
