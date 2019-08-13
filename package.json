@@ -3,7 +3,7 @@
   "description": "flexbox grid layout like rebass but fastest",
   "author": "Eddort",
   "user": "Eddort",
-  "version": "0.7.1",
+  "version": "1.0.0",
   "scripts": {
     "storybook": "start-storybook -p 9001 -c .storybook",
     "build": "npm run clean && npm run build:cjs && npm run build:esm",

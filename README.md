@@ -1,5 +1,18 @@
 <img src="flexer.gif" width="200">
 
+[![Build Status][badge]][travis]
+[![Coverage][coverage-badge]][coverage]
+[![Version][version-badge]][npm]
+![MIT License][license]
+
+[badge]: https://flat.badgen.net/travis/eddort/react-flexer/master
+[travis]: https://travis-ci.com/eddort/react-flexer
+[coverage-badge]: https://flat.badgen.net/codecov/c/github/eddort/react-flexer
+[coverage]: https://codecov.io/github/eddort/react-flexer
+[version-badge]: https://flat.badgen.net/npm/v/react-flexer
+[npm]: https://npmjs.com/package/react-flexer
+[license]: https://flat.badgen.net/badge/license/MIT/blue
+
 # react-flexer 
 
 ### flexbox grid layout like rebass, just faster. Built with [@quarkly/elementary](https://github.com/quarkly/elementary)
