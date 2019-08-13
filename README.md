@@ -4,6 +4,10 @@
 
 ### flexbox grid layout like rebass, just faster. Built with [@quarkly/elementary](https://github.com/quarkly/elementary)
 
+## Why would you use Flexer instead of Rebass?
+ - Flexer is faster than Rebass 🏃🏻
+ - Flexer fully supports a system of short properties 😱
+
 ## Usage
 
 ```bash
