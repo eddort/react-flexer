@@ -3,7 +3,7 @@
   "description": "flexbox grid layout like rebass but fastest",
   "author": "Eddort",
   "user": "Eddort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "storybook": "start-storybook -p 9001 -c .storybook",
     "build": "npm run clean && npm run build:cjs && npm run build:esm",
@@ -80,10 +80,6 @@
     "test"
   ],
   "dependencies": {
-    "@quarkly/elementary": "1.1.4",
-    "classnames": "^2.2.6",
-    "lodash": "latest",
-    "react": "^16.8.1",
-    "react-dom": "^16.8.2"
+    "@quarkly/elementary": "1.1.4"
   }
 }
